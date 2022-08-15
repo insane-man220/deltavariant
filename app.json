@@ -9,9 +9,9 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/insane-man220/deltavariant",
-    "website": "https://github.com/insane-man220/deltavariant",
-    "success_url": "https://github.com/insane-man220/deltavariant",
+    "repository": "https://github.com/TeamUltroid/Ultroid",
+    "website": "https://github.com/TeamUltroid/Ultroid",
+    "success_url": "https://github.com/TeamUltroid/Ultroid",
     "stack": "container",
     "env": {
         "API_ID": {
